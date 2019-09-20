@@ -1,0 +1,5 @@
+carID   Direction   arrival-time   start-time   end-time
+0      SOUTH      21:42:56      21:42:56      21:42:57
+1      NORTH      21:42:56      21:42:57      21:42:58
+2      NORTH      21:43:16      21:43:16      21:43:17
+3      SOUTH      21:43:16      21:43:17      21:43:18
